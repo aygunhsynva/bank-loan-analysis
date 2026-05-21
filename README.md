@@ -9,19 +9,17 @@ This repository contains an end-to-end data analytics project designed to optimi
 * **Power BI:** Dynamic and interactive 2-page dashboard for management reporting.
 
 ## 📁 Repository Structure
-* `/Data`: Contains the cleaned dataset (`loan_dataset.csv`).
-* `/SQL_Scripts`: Contains production-ready Oracle SQL queries (`loan_queries.sql`).
-* `/PowerBI_Dashboard`: Contains the final Power BI report (`Bank_Loan_Analysis.pbix`).
+* `/Data`: Contains the cleaned dataset (`loan dataset final.csv`).
+* `/SQL_Scripts`: Contains production-ready Oracle SQL queries (`loan_dataset.sql`).
+* `/PowerBI_Dashboard`: Contains the final Power BI report (`loan-dataset.pbix`).
 
-## 🔍 Key Insights & Business Findings
-* **The High-Value Segment:** 91.4% of all accepted loans came from the **High Income** bracket. Marketing to Low-Income segments yielded a 0% conversion rate.
-* **Conversion Rate:** The overall campaign conversion rate stands at **9.60%** (480 loans accepted out of 5,000 customers).
-* **Behavioral Correlation:** Customers with high income combined with credit card spending (CCAvg) over 3K showed the highest propensity to accept the loan.
 
 ## 🖼️ Dashboard Preview
 
 ### Page 1: General View
-[Buraya Power BI birinci səhifənin şəklini sürükləyib buraxın]
+<img width="1315" height="730" alt="Screenshot 2026-05-21 171529" src="https://github.com/user-attachments/assets/2cff3edc-217e-4683-9818-8912b6775389" />
+
 
 ### Page 2: Customer Analysis
-[Buraya Power BI ikinci səhifənin şəklini sürükləyib buraxın]
+<img width="1310" height="732" alt="Screenshot 2026-05-21 171541" src="https://github.com/user-attachments/assets/a08bec47-e8ae-4469-8e80-35fc9fa7f8f9" />
+
